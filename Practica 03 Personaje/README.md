@@ -3,17 +3,13 @@
 ![UDG logo](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/3bf298d7-b356-4cc5-979f-c883056c5c13)
 
 
-Pruebas de la actividad #2 con nombre "LowPoly (Diorama)".
-Esta actvidad de llevo a cabo en el programa Blender para poner a prueba nuestros conocimientos y lograr un diorama estetico, bien desarrolado y con una calidad buena o superior.
+Pruebas de la actividad #3 con nombre "Personaje".
+La actividad presentada consto de la reacion de un modelo (personaje) en lowpoly, en mi caso se trata de un pingüino elaborado a partir de un mismo cubo con el efecto de "Mirror" para facilitar el trabajo y lograr una armonia en el diseño.
 
 Capturas de pantalla del programa, el proceso y el resultado de la actividad.
 
-![Captura base](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/bcdbfaa7-b6f5-42b6-941e-a91106c1eb79)
+![Captura base](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/c0fb8c23-2436-4d66-89e7-d2f2c7285a25)
+![Captura 2](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/79123757-a864-4c32-b102-122eb9138749)
+![Captura 3](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/a912e056-c973-4893-ac73-fdedf1e6f931)
+![Captura 4](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/53220d27-5189-417c-a1d9-5159ab2ae1a8)
 
-![captura 2](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/9b092885-ba81-440c-b60e-42d7122b1f89)
-
-![captura 3](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/107c391f-4c96-4326-8bef-4907fa4139c4)
-
-![captura 4](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/d3809baa-8457-416d-a75e-6b9f198e7e9b)
-
-![captura 5](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/8fce8130-15e9-4c8e-8463-16e2720495ae)
