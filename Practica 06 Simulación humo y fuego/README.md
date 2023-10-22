@@ -1,19 +1,14 @@
-# Actividad No. 2
+# Actividad No. 6
 
 ![UDG logo](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/3bf298d7-b356-4cc5-979f-c883056c5c13)
 
 
-Pruebas de la actividad #2 con nombre "LowPoly (Diorama)".
-Esta actvidad de llevo a cabo en el programa Blender para poner a prueba nuestros conocimientos y lograr un diorama estetico, bien desarrolado y con una calidad buena o superior.
+Pruebas de la actividad #6 con nombre "Simulación humo y fuego".
+Al igual que la actividad #5 esta tiene como finalidad el acercarnos a los diferentes efectos que nos puede proporcionar Blender para trabajar, en esta ocasión como dice el nombre se trata de un cuerpo que se prende en fuego y genera una nube de humo.
 
 Capturas de pantalla del programa, el proceso y el resultado de la actividad.
 
-![Captura base](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/bcdbfaa7-b6f5-42b6-941e-a91106c1eb79)
+![Captura base](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/c6125b9c-2e2b-4521-9302-472e23dbc14f)
+![Captura 2](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/effbf737-ffb9-4ff9-8d1d-e9c341d5da01)
+![Captura 3](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/0c5292f7-ad5a-44bd-9a90-fe1b87542c02)
 
-![captura 2](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/9b092885-ba81-440c-b60e-42d7122b1f89)
-
-![captura 3](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/107c391f-4c96-4326-8bef-4907fa4139c4)
-
-![captura 4](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/d3809baa-8457-416d-a75e-6b9f198e7e9b)
-
-![captura 5](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/8fce8130-15e9-4c8e-8463-16e2720495ae)
