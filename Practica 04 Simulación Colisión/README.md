@@ -1,4 +1,4 @@
-# Actividad No. 2
+# Actividad No. 4
 
 ![UDG logo](https://github.com/EthanZash/Simulacion_por_computadora_EthanZashuvath/assets/71675192/3bf298d7-b356-4cc5-979f-c883056c5c13)
 
